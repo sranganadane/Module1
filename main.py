@@ -70,35 +70,3 @@ not_bool2 = not bool2
 # (>, <, >=, <=, ==, !=) to compare them
 # Print the results of these comparisons
 
-
-# **MODULE 2**
-# TODO: Create a list of your favorite fruits
-# TODO: Add a new fruit to the end of the list
-# fruit = ['pomme', 'banane', 'poire']
-# fruit.append("cerise")
-# print(fruit)
-
-# # TODO: Remove the second fruit from the list
-# del fruit[2]
-# print(fruit)
-
-# # TODO: Sort the list alphabetically
-# fruit.sort()
-# print(fruit)
-
-# # TODO: Create a new list with the firt two fruits
-# top_fruit = fruit[ : 2 ]
-# print(top_fruit)
-
-
-#              EXERCICE 2 TUPLE
-# TODO: Create a tuple with your favorite colors
-color = ("bleu", "rouge", "rose", "beige")
-
-# TODO: Try to modify one of the colors (this should raise an error)
-#tuple # liste donc non modifiable
-# TODO: Count how many times a specific color appears in the tuple
-
-# TODO: Find the index of a specific color
-
-# TODO: Create a new tuple by concatenating two existing tuples
